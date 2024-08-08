@@ -1,16 +1,5 @@
 # Description
-Assignments for my computational modelling and simulation unit. The assignments seem GitHub-worthy, therefore I uploaded them for showcasing purposes. Furthermore, I planned to use what I learned from the unit for future personal projects, such as reinforcement Learning.
-
-# Assignment 1
-The first assignment is a short assignment covering Modelling problems/processes, Modelling Errors, Taylor Series, and Conditioning.
-
-Use cases: 
-> Predictive Analytics; Simulation; Optimization; Risk Assessment; Error Analysis; Uncertainty Quantification; Robustness Testing; Numerical Stability
-
-# Assignment 2
-[Link to Kaggle for interactivity](#)
-
-The second assignment focuses on the [Dynamic Model SEIR](https://link.springer.com/article/10.1007/s11071-020-05743-y) (Susceptible Exposed Infected Recovered) to model the epidemic spread such as COVID-19. I explored how different variables affect the spread of the epidemic. I also explored the effect of various modelling techniques, namely [Discrete Time Modelling](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)/04%3A_DiscreteTime_Models_I__Modeling/401%3A_DiscreteTime_Models_with_Difference_Equations), [Continuous Time Modelling](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)/06%3A_ContinuousTime_Models_I__Modeling#:~:text=Continuous%E2%88%92time%20models%20are%20written,place%20smoothly%20over%20continuous%20time.), and (ochastic Modelling)[https://en.wikipedia.org/wiki/Stochastic_process]. Finally, I performed a [Steady State Analysis](https://en.wikipedia.org/wiki/Steady_state) using [Cobwebbing](https://ms.mcmaster.ca/~clemene/1LS3lectureoutlines/1ls3_3.2.pdf), [Phase Plane Analysis](https://ocw.mit.edu/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/0b318c74f4b1ae41dc4393e39b9cab17_ch3_nnl.pdf), and the Dynamic of Long Time Horizon.
+This project ([go to Kaggle for interactivity](#)) focuses on [Dynamic Model SEIR](https://link.springer.com/article/10.1007/s11071-020-05743-y) (Susceptible Exposed Infected Recovered) to model the epidemic spread such as COVID-19. I explored how different variables affect the spread of the epidemic. I also explored the effect of various modelling techniques, namely [Discrete Time Modelling](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)/04%3A_DiscreteTime_Models_I__Modeling/401%3A_DiscreteTime_Models_with_Difference_Equations), [Continuous Time Modelling](https://math.libretexts.org/Bookshelves/Scientific_Computing_Simulations_and_Modeling/Introduction_to_the_Modeling_and_Analysis_of_Complex_Systems_(Sayama)/06%3A_ContinuousTime_Models_I__Modeling#:~:text=Continuous%E2%88%92time%20models%20are%20written,place%20smoothly%20over%20continuous%20time.), and (ochastic Modelling)[https://en.wikipedia.org/wiki/Stochastic_process]. Finally, I performed a [Steady State Analysis](https://en.wikipedia.org/wiki/Steady_state) using [Cobwebbing](https://ms.mcmaster.ca/~clemene/1LS3lectureoutlines/1ls3_3.2.pdf), [Phase Plane Analysis](https://ocw.mit.edu/courses/16-30-estimation-and-control-of-aerospace-systems-spring-2004/0b318c74f4b1ae41dc4393e39b9cab17_ch3_nnl.pdf), and the Dynamic of Long Time Horizon.
 
 ## Use cases:
 ### 1. Epidemiological Forecasting and Decision Support
