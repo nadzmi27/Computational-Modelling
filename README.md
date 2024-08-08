@@ -4,8 +4,8 @@ Assignments for my computational modelling and simulation unit. The assignments 
 # Assignment 1
 The first assignment is a short assignment covering Modelling problems/processes, Modelling Errors, Taylor Series, and Conditioning.
 
-Use cases: 
-> Predictive Analytics; Simulation; Optimization; Risk Assessment; Error Analysis; Uncertainty Quantification; Robustness Testing; Numerical Stability
+## Use cases: 
+Predictive Analytics; Simulation; Optimization; Risk Assessment; Error Analysis; Uncertainty Quantification; Robustness Testing; Numerical Stability
 
 # Assignment 2
 [Link to Kaggle for interactivity](#)
